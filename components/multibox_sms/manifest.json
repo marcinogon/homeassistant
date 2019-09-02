@@ -1,0 +1,10 @@
+{
+    "domain": "multibox_sms",
+    "name": "Multibox Orange SMS",
+    "documentation": "",
+    "requirements": [
+        "scrapy==1.7.0"
+    ],
+    "dependencies": [],
+    "codeowners": []
+  }
